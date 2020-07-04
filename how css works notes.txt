@@ -1,0 +1,17 @@
+three pillars of writing good css
+-responsive design
+	-build one website that works on all devices
+	-responsive images
+	-correct units
+	-desktop vs mobile first
+-maintainable and scalable code
+	-clean easy to understand and reusable code
+	-how to organize files
+	-class naming
+	-how to structure html
+-web performance
+	-make website faster
+	-less http requests
+	-use css preprocessor
+	-less images
+	-compress images

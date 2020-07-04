@@ -1,0 +1,5 @@
+what happens in browser when loading a webpage
+load html->parse html---->DocumentObjectModel
+		|
+	   load css---->parse css: resolve conflicting css declarations|process final css values
+-------->css object model---->render tree---> website rendering the visual formatting code.--->final rendered website.

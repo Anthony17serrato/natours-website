@@ -1,0 +1,10 @@
+declared value(author declarations)->cascaded value(after cascade)->specified value->computed value->used value->actual value
+
+how units are converted from relative to absolute ?
+150%(fonts)-> x% * parents cmputed font size -> 24px
+10%(length) -> x% * parents computed width -> 100px
+3em(font) -> x * parents computed font size -> 72px (3*24)
+2em(length) -> x*current element computed font size -> 48px
+10rem -> x * root computed font-size -> 160px
+90vh -> x * 1% of viewport height -> 90% of current viewport height
+80vw -> x * 1% of viewport width -> 80% of current viewport width

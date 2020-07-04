@@ -1,0 +1,12 @@
+css rule: selector and declaration block
+cascade:process of combining stylesheets
+	-author
+	-user
+	-browser(user agent)
+declarations
+importance	>	specificity			>	source order
+!important		1)inline				last declaration will be used
+			2)id's
+			3)classes,pseudo-classes, attribute
+
+third party stlesheets should always be declared last.
